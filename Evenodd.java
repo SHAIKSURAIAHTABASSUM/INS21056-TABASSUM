@@ -17,6 +17,6 @@ System.out.println("n is even");
 	}
 else
 	System.out.println("n is odd");
-	}1
+	}
 }
 
